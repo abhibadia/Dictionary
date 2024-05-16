@@ -1,6 +1,3 @@
-// Name: 
-// Date: 
-
 import java.io.*;
 import java.util.*;
 
@@ -90,59 +87,3 @@ public class Dictionary
         return reversedDictionary;
     }
 }
-
-
-   /********************
-	FILE INPUT:
-   	holiday
-		fiesta
-		holiday
-		vacaciones
-		party
-		fiesta
-		celebration
-		fiesta
-     <etc.>
-  *********************************** 
-	FILE OUTPUT:
-		ENGLISH TO SPANISH
-			banana [banana]
-			celebration [fiesta]
-			computer [computadora, ordenador]
-			double [doblar, doble, duplicar]
-			father [padre]
-			feast [fiesta]
-			good [bueno]
-			hand [mano]
-			hello [hola]
-			holiday [fiesta, vacaciones]
-			party [fiesta]
-			plaza [plaza]
-			priest [padre]
-			program [programa, programar]
-			sleep [dormir]
-			son [hijo]
-			sun [sol]
-			vacation [vacaciones]
-
-		SPANISH TO ENGLISH
-			banana [banana]
-			bueno [good]
-			computadora [computer]
-			doblar [double]
-			doble [double]
-			dormir [sleep]
-			duplicar [double]
-			fiesta [celebration, feast, holiday, party]
-			hijo [son]
-			hola [hello]
-			mano [hand]
-			ordenador [computer]
-			padre [father, priest]
-			plaza [plaza]
-			programa [program]
-			programar [program]
-			sol [sun]
-			vacaciones [holiday, vacation]
-
-**********************/
